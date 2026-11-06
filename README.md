@@ -21,7 +21,7 @@ Make your ChatGPT experience feel more personal with a look that suits your styl
 
 Once the extension is approved and publicly available:
 
-1. Visit the [ChatGPT Themes page on Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-themes1/).
+1. Visit the [ChatGPT Themes page on Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/personalized-chatgpt-themes/).
 2. Click **Add to Firefox**.
 3. Confirm the installation.
 4. Open ChatGPT and try the extension.
